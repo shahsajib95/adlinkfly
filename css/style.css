@@ -24,7 +24,7 @@ section{
     
 } 
 .bg input[type=text] {
-    padding: 1% 25% 1% 0.5%;
+    padding: 1% 15%;
     border-radius: 5px;
     border: none;
 }
