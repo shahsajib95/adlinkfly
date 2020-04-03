@@ -43,6 +43,10 @@ section{
     border: none;
     border-radius: 5px;
 }
+.main-button:hover{
+    background-color: #FFFEFF;
+    color: #FFA320;
+}
 .join-content{
     background-color: #43C4EF;
     padding: 2%;
