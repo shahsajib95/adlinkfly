@@ -1,0 +1,127 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    margin-top: 50px;
+}
+.container{
+    margin-bottom: 30px;
+}
+.navbar{
+    border-radius: 10px;
+}
+.sign-in a{
+    background: #FFA320;
+    border-radius: 5px;
+}
+.bg{
+    background-image: url("../img/bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 50vh;
+    border-radius: 10px;
+    
+} 
+.bg input[type=text] {
+    padding: 1% 25% 1% 0.5%;
+    border-radius: 5px;
+    border: none;
+}
+.bg i{
+    border-radius: 5px;
+}
+.short-box {
+    background-color: #43C6F1;
+    height: 36vh;
+    border-radius: 10px;
+    margin-top: 13%;
+}
+.main-button{
+    background-color: #FFA320;
+    padding: 1% 10%;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.join-content{
+    background-color: #43C4EF;
+    padding: 2%;
+    border-radius: 5px;
+}
+.join-box{
+    background-color: white;
+    padding: 5%;
+    border-radius: 10px;
+    margin-top: 13%;
+    height: 40vh;
+}
+.join-box h3{
+    font-weight: 700;
+}
+.join-box h4{
+    font-weight: 700;
+}
+.card{
+    border: none;
+}
+.card{
+    background-color: #43C4EF;
+    margin: 3% 30% 5% 30%;
+    border-radius: 10px;
+
+}
+.client-img{
+    position: absolute;
+    top: -30px;
+    left: 20%;
+    text-align: center;
+    border-radius: 50%;
+    width: 70px;
+}
+.grow{
+    background-color: #43C4EF;
+    padding: 4%;
+}
+
+.grow-icon{
+    background-color: white;
+    padding: 1% 5%;
+    border-radius: 10px;
+}
+.form input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-message{
+    width: 100%;
+    height: 95%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+    margin-left: 5%;
+}
+.footer{
+    background-color: #43C4EF;
+    padding: 2%;
+}
+.fa{
+    font-size: 20px;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: 1%;
+    background-color: #FFA320;
+    color: #FFFEFF;
+}
+.fa:hover{
+    background-color: white;
+    color: ##FFA320;
+}
