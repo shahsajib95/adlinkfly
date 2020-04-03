@@ -72,8 +72,9 @@ section{
 }
 .card{
     border-radius: 10px;
-    margin: 3% 40% 0% 30%;
+    margin: 3% 30% 0% 30%;
     background: #43C6F1;
+
 }
 .client-img{
     position: absolute;
